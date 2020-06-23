@@ -1,0 +1,36 @@
+.main
+{
+	background-color: #3d5b99;
+	height: 85px;
+	color:white;
+}
+
+.fl
+{
+	float:left;
+}
+
+.h1fb
+{
+	 float:left;
+	 font-family: verdana;
+}
+
+.form1
+{
+	float:right;
+}
+
+.h3
+{
+	color: #3d5b99;
+	font-size:30px;
+}
+
+.divsub
+{
+	 background-color: #D3D3D3;
+	 float: right;
+	 width:966.2px;
+}
+

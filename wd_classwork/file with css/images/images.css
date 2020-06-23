@@ -1,0 +1,25 @@
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body
+{
+	background-image: url("4k2.jpg");
+	background-repeat: no-repeat; 
+}
+
+p
+{
+		color: gold;
+		font-size: 160%
+}
+
+#picname
+{
+	border: 3px solid tomato;
+	background-color: #ffeff2;
+	color: blue;
+}

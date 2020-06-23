@@ -1,0 +1,48 @@
+body
+{
+	background-color: cyan;
+}
+
+.h21
+{
+	border: 2px solid gold;
+	color: blue;
+	padding: 4px;
+	outline-style: ridge;
+	outline-offset: 2px;
+	outline-width: 5px;
+	outline-color: silver;
+	text-align: center;
+	background-color: white;
+}
+
+#h22
+{
+	border: 2px solid gold;
+	color: blue;
+	padding: 4px;
+	outline-style: ridge;
+	outline-offset: 2px;
+	outline-width: 5px;
+	outline-color: silver;
+	text-align: center;
+	background-color: white;
+}
+
+#form
+{
+	font-size: 30px;
+	color: black;
+}
+
+#box
+{
+	font-size: 30px;
+	color: red;
+	text-decoration: underline;
+}
+
+#text
+{
+	margin-left: 100px;
+}

@@ -1,0 +1,30 @@
+*
+{
+	border: 1px solid black;
+	padding: 2px;
+}
+
+.comp
+{
+	border: 2px solid silver;
+}
+
+#td
+{
+	text-decoration: line-through;
+}
+
+h1 + ul
+{
+	border: 2px solid tomato;
+}
+
+input[type="ckeckbox"]
+{
+	background-color: yellow;
+}
+
+li:nth-of-type(3)
+{
+	background-color: yellow;
+}

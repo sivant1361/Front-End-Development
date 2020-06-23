@@ -1,0 +1,62 @@
+p
+{
+		line-height: 0.85px;
+		font-family: verdana;
+}
+
+#main
+{
+	 height: 90px;
+	 background-color: royalblue;
+	 color: white;align-self: top
+	 ;width: max-width;
+}
+
+#fk
+{
+	 height: 90px;
+	 width:20%;
+	 text-align: left;
+	 background-color: royalblue;
+	 color: white;
+	 margin-left: 150px;
+	 margin-top:-10px;
+}
+
+#name
+{
+ 	font-size: 25px;
+}
+
+#explore
+{
+	 color: gold;
+}
+
+#searchbar
+{
+	 height: 90px;
+	 width:80%;
+	 margin-left: 20%;
+	 margin-top: -63px;
+}
+
+.insert
+{
+	width:450px;
+	height: 40px;
+}
+
+#button
+{
+	margin-right: 500px;
+	float:right;
+	color: white;
+	margin-top: -80px;
+	width:110px;
+}
+
+#hyper
+{
+	text-decoration:none;
+}

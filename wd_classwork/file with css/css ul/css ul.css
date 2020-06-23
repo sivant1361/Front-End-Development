@@ -1,0 +1,36 @@
+*
+{
+	color: gold;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+body
+{
+	background-image: url("wood.jpeg");
+	background-size: 1000px 1000px;
+}
+
+h1
+{
+	color: red;
+}
+
+ul a
+{
+	color: silver;
+}
+
+.name
+{
+	color: pink;
+}
+
+#h12
+{
+	background-color: yellow;
+	border-radius: 5px;
+}

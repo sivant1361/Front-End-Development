@@ -1,0 +1,63 @@
+body
+{
+	background-image: url("backpicinput.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+input
+{
+	height: 30px;
+	width:300px;
+	background-color: lightblue;
+}
+
+#form
+{
+	 border-bottom:2px solid tomato;
+	 padding: 15px;
+	 margin-right: auto;
+	 margin-left: auto;
+	 text-align: center;
+	 width: 60%;
+	 color: gold;
+	 font-family: algerian;
+	 font-weight: bold;
+	 font-size: 40px;
+}
+
+#submit
+{
+	width:100px;
+	border:2px ridge gold;
+	padding: 5px;
+}
+
+div
+{
+	margin-top: 10%;
+	width: 23%;
+	height: 80% ;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	background-color: rgba(10,10,150,100);
+	border: 5px ridge silver;
+	outline: 15px ridge silver;
+	outline-offset: 10px;
+}
+
+a
+{
+	text-decoration: none;
+	color: royalblue;
+}
+
+p
+{
+	font-size: 15px;
+	color: silver;
+	border-top: 2px;
+	color: lightgrey;
+	margin-left: 50px;
+}

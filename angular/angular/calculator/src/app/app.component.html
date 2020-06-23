@@ -1,0 +1,7 @@
+<div style="text-align: center;" ng-app="">
+    <input type="number" placeholder="FirstNumber" class="form-control" ng-model="" #first>
+    <input type="number" placeholder="SecondNumber" class="form-control" ng-model="" #second>
+    <br>
+    <button type="submit"  (click)="calculate(first.value,second.value)">calculate</button>
+    <h4>{{sum}}</h4>
+</div>

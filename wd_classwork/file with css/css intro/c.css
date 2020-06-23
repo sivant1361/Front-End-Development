@@ -1,0 +1,14 @@
+h1
+{
+	color: red;
+	font-size: 60px;
+	word-spacing: 2px;
+	border: 2px solid black;
+	outline-color: silver;
+	outline-width: 5px ;
+	outline-style: ridge;
+	outline-offset: 2px; 
+	text-align: center;	
+	padding: 2px;
+	background-color: rgb(13,160,200);
+}
